@@ -6,7 +6,7 @@ public class IdadeEmDias {
         Scanner scanner = new Scanner(System.in); 
         
         // leitura da idade em anos, meses e dias
-        System.out.println("Digite a quaantidade de anos: ");
+        System.out.println("Digite a quantidade de anos: ");
         int anos = scanner.nextInt();
 
         System.out.println("Digite a quantidade de meses: ");
